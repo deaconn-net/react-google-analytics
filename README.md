@@ -3,7 +3,20 @@ A small NPM package to handle inserting the scripts needed for Google Analytics 
 
 ## Usage
 ### Props
-* **id** - Your analytics
+* **tag** - Your analytics tag ID.
+
+```ts
+import GoogleAnalytics from "@gamemann/google-analytics"
+
+...
+
+return (
+    <head>
+        <GoogleAnalytics tag="mytagID" />
+    </head>
+);
+
+```
 
 ## Installation
 You may install component using the NPM package manager.
