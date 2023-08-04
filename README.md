@@ -6,7 +6,7 @@ A small NPM package to handle inserting the scripts needed for Google Analytics 
 * **tag** - Your analytics tag ID.
 
 ```ts
-import GoogleAnalytics from "deaconn-google-analytics"
+import { GoogleAnalytics } from "deaconn-google-analytics"
 
 ...
 
