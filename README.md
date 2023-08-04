@@ -1,5 +1,5 @@
 # React Google Analytics
-A small NPM package to handle inserting the scripts needed for Google Analytics to operate via a React component.
+A small NPM package to handle inserting scripts required for Google Analytics to send analytics via a React component.
 
 ## Usage
 ### Props
@@ -19,7 +19,7 @@ return (
 ```
 
 ## Installation
-You may install component using the NPM package manager.
+You may install the component using the NPM package manager.
 
 ```bash
 npm install deaconn-google-analytics
