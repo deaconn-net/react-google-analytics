@@ -1,5 +1,5 @@
 {
-    "name": "@gamemann/google-analytics",
+    "name": "deaconn-google-analytics",
     "version": "1.0.0",
     "description": "A simple React component for inserting your Google Analytics tag.",
     "main": "./dist/cjs/index.js",

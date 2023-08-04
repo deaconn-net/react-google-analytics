@@ -6,7 +6,7 @@ A small NPM package to handle inserting the scripts needed for Google Analytics 
 * **tag** - Your analytics tag ID.
 
 ```ts
-import GoogleAnalytics from "@gamemann/google-analytics"
+import GoogleAnalytics from "deaconn-google-analytics"
 
 ...
 
@@ -22,7 +22,7 @@ return (
 You may install component using the NPM package manager.
 
 ```bash
-npm install @gamemann/google-analytics
+npm install deaconn-google-analytics
 ```
 
 ## Credits
